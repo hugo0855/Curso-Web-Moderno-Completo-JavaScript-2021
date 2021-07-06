@@ -3,6 +3,6 @@ console.log("Senteça de código")
 {
     {
         console.log("olá")
-        console.log('Mundo!') // Padrão do Curso
+        console.log('Mundo!') // Padrão do Cursor
     }
 }
